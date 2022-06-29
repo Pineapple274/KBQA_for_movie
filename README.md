@@ -12,7 +12,9 @@
   后端采用flask
   
 ## 效果演示
-  ![image](https://github.com/Pineapple274/-/blob/main/KBQA.gif)
+  <div align=center>
+    <src="https://github.com/Pineapple274/-/blob/main/KBQA.gif"/>
+  </div>
 ## 整体架构
 ```
 KBQA_backend
