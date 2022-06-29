@@ -13,7 +13,7 @@
   
 ## 效果演示
   <div align=center>
-    <src="https://github.com/Pineapple274/-/blob/main/KBQA.gif"/>
+    <img src="https://github.com/Pineapple274/-/blob/main/KBQA.gif"/>
   </div>
 ## 整体架构
 ```
